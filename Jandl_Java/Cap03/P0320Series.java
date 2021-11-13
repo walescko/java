@@ -1,6 +1,5 @@
-package JandlJrCap03;
-//import JandlJrCap03.P0319Progressao;
-//import JandlJrCap03.P0318Fibonacci;
+package com.company.Jandl_Java.Cap03;
+
 import java.util.Scanner;
 
 public class P0320Series {

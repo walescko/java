@@ -1,5 +1,4 @@
-package JandlJrCap03;
-
+package com.company.Jandl_Java.Cap03;
 public class P0305Dobro {
 
     private static int instancias = 0;

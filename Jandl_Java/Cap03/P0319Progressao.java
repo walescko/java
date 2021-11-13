@@ -1,4 +1,4 @@
-package JandlJrCap03;
+package com.company.Jandl_Java.Cap03;
 
 public class P0319Progressao {
     public static long aritmetica(int ini, int razao, int nTermos){

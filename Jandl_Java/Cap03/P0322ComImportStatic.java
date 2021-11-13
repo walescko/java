@@ -1,4 +1,4 @@
-package JandlJrCap03;
+package com.company.Jandl_Java.Cap03;
 
 import static java.lang.Math.*;
 

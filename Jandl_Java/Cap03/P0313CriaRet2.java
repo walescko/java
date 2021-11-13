@@ -1,4 +1,4 @@
-package JandlJrCap03;
+package com.company.Jandl_Java.Cap03;
 
 public class P0313CriaRet2 {
 	public static void main(String[] args) {

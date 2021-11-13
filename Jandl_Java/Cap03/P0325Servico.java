@@ -1,4 +1,5 @@
-package org.jandl.mod;
+package com.company.Jandl_Java.Cap03;
+
 import java.util.Calendar;
 
 public class P0325Servico {

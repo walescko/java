@@ -1,4 +1,4 @@
-package org.jandl.mod;
+package com.company.Jandl_Java.Cap03;
 
 public class P0324Testador {
 
