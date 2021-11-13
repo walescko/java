@@ -1,8 +1,9 @@
 public class P0203Escopo {
 	public static void main(String[] args) {
-		int i = 5;
+		int i = 6;
+		int j;
 		{
-			int j = 2;
+//			int j = 2;
 			System.out.println(i);
 			j = 5*i;
 			System.out.println(j);
