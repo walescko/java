@@ -1,4 +1,7 @@
+package com.company.Jandl_Java.Cap02;
+
 public class P0208Bitwise {
+
 	public static void main(String[] args) {
 		
 		byte a = 0x1F, b = 0x10;

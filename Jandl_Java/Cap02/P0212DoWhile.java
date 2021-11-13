@@ -1,4 +1,6 @@
-/*Esse código tem um pequeno bug, que no final ele não apresenta a condição 
+package com.company.Jandl_Java.Cap02;
+
+/*Esse código tem um pequeno bug, que no final ele não apresenta a condição
 min e max iguais em todos os casos.
 Esse código se encontra no livro:
 JAVA - Guia do Programador

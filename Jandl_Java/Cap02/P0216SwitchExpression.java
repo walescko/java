@@ -1,7 +1,10 @@
 /*Até esse exercício estava usando a JVM do openJDK 11, porém nesse exercício
  * instalei o JAVA 16, e agora usando a JVM do Java 16, esse programa não rodou 
- * no Eclipse, somente no terminal.
+ * no Eclipse, somente no terminal e no intellij com Java 17.
  */
+
+package com.company.Jandl_Java.Cap02;
+
 import java.util.*;
 
 public class P0216SwitchExpression {

@@ -1,7 +1,9 @@
+package com.company.Jandl_Java.Cap02;
+
 public class P0203Escopo {
 	public static void main(String[] args) {
 		int i = 6;
-		int j;
+		int j;//declarei antes a variavel para poder rodar o programa.
 		{
 //			int j = 2;
 			System.out.println(i);

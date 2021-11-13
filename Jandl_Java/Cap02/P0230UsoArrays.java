@@ -1,3 +1,5 @@
+package com.company.Jandl_Java.Cap02;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -31,6 +33,5 @@ public class P0230UsoArrays{
         System.out.println("Cópia parcial:\n" + Arrays.toString(arranjo2));
         System.out.println("Cópia total:\n" + Arrays.toString(arranjo3));
         sc.close();
-
     }
 }

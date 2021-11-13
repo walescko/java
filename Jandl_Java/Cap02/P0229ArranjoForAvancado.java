@@ -1,3 +1,5 @@
+package com.company.Jandl_Java.Cap02;
+
 import java.util.Scanner;
 
 public class P0229ArranjoForAvancado{

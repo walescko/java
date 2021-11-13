@@ -1,6 +1,9 @@
+package com.company.Jandl_Java.Cap02;
+
 import java.io.*;
 
 public class P0226TryWithREsources {
+
 	public static void main(String[] args) {
 		
 		String s = "Java - Guia do Programador, 4ª Ed.";

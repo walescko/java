@@ -1,6 +1,9 @@
+package com.company.Jandl_Java.Cap02;
+
 import java.util.Scanner;
 
 public class P0227Assert{
+
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);

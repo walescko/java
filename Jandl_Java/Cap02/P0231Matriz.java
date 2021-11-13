@@ -1,4 +1,7 @@
+package com.company.Jandl_Java.Cap02;
+
 public class P0231Matriz{
+
     public static void main(String[] args){
 
         double[][] m = new double[3][4];

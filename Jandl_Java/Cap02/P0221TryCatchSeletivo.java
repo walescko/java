@@ -1,6 +1,7 @@
-package src;
+package com.company.Jandl_Java.Cap02;
 
 public class P0221TryCatchSeletivo {
+
 	public static void main(String[] args) {
 		
 		try {
@@ -14,6 +15,5 @@ public class P0221TryCatchSeletivo {
 		} catch (NumberFormatException e2) {
 			System.out.println("Argumento não é um inteiro.");
 		}
-	
 	}
 }

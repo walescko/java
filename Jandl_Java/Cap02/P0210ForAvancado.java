@@ -1,4 +1,7 @@
+package com.company.Jandl_Java.Cap02;
+
 public class P0210ForAvancado {
+
 	public static void main(String[] args) {
 		
 		double[] arranjo = {1.1964, 6.1935, 7.1931, 12.1968};

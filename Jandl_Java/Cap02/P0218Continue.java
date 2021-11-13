@@ -1,4 +1,7 @@
+package com.company.Jandl_Java.Cap02;
+
 public class P0218Continue {
+
 	public static void main(String[] args) {
 		
 		int soma = 0;

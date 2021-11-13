@@ -1,4 +1,4 @@
-package src;
+package com.company.Jandl_Java.Cap02;
 
 public class P0222TryMultiCatch {
 	public static void main(String[] args) {
@@ -12,6 +12,5 @@ public class P0222TryMultiCatch {
 		} catch (ArrayIndexOutOfBoundsException | NumberFormatException e) {
 			System.out.println("Argumento não fornecido ou inválido.");
 		}
-	
 	}
 }

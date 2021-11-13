@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Calculadora.Calculator;
 
 import java.util.Scanner;
 

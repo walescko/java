@@ -1,6 +1,7 @@
-package src;
+package com.company.Jandl_Java.Cap02;
 
 public class P0223TryCatchFinally {
+
 	public static void main(String[] args) {
 		
 		int j = 5;
@@ -15,6 +16,5 @@ public class P0223TryCatchFinally {
 				j--;
 			}
 		}
-		
 	}
 }

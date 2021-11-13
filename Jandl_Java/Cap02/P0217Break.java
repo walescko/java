@@ -1,5 +1,9 @@
+package com.company.Jandl_Java.Cap02;
+
 import java.util.Scanner;
+
 public class P0217Break {
+
 	public static void main(String[] args) {
 		
 		Scanner s = new Scanner(System.in);
