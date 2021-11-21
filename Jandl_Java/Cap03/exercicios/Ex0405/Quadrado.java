@@ -1,4 +1,4 @@
-package com.company.Jandl_Java.Cap03.exercicios;
+package com.company.Jandl_Java.Cap03.exercicios.Ex0405;
 
 public class Quadrado {
 
