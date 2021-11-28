@@ -12,14 +12,15 @@ public class P0405UsaConversores {
         sc.close();
 
         P0403CelsiusKelvin ck = new P0403CelsiusKelvin();
-        System.out.println("ck: " + ck);
+        System.out.println("ck: "+ck);
         double tempK = ck.converter(tempC);
-        System.out.println("tempK = " + tempK + "K.");
+        System.out.println("tempK = " + tempK +"K.");
 
         P0404KelvinCelsius kc = new P0404KelvinCelsius();
-        System.out.println("kc: " + kc);
+        System.out.println("kc: "+kc);
         tempC = kc.converter(tempK);
-        System.out.println("tempC = " + tempC + "C.");
+        System.out.println("tempC = " + tempC +"C.");
+
     }
 }
 
