@@ -16,11 +16,11 @@ public class P0424TestaFormas {
         System.out.println("areaRet = " + r.area());
 
         P0407Forma formas[] = new P0407Forma[3];
-        forma[0] = c;
-        forma[1] = r;
-        forma[2] = new P0410Triangulo(1.0,2.0,2.0);
+        formas[0] = c;
+        formas[1] = r;
+        formas[2] = new P0410Triangulo(1.0,2.0,2.0);
         for (int i = 0 ; i < formas.length; i++){
-            System.out.println(forma[i]);
+            System.out.println(formas[i]);
             System.out.println("area = " + formas[i].area());
         }
     }
