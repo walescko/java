@@ -23,7 +23,7 @@ public class P0427EmMetodo {
             s.soma(v);
         }
         public void info(){
-            System.out.printf("total = " + total);
+            System.out.println("total = " + total);
         }
     }
 
