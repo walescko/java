@@ -25,6 +25,7 @@ public class menu {
         System.out.println("Multiplicação .............. 3");
         System.out.println("Divisão .................... 4");
         System.out.println("Resto da Divisão ........... 5");
+        System.out.println("Cálculo da Hipotenusa ...... 6");
         System.out.print("Opção: ");
         opcao = scan.nextInt();
 
@@ -54,6 +55,11 @@ public class menu {
             case 5:
                 dados.dadosenter();
                 dados.restodivisao();
+                break;
+            case 6:
+                System.out.println("Entre com os valores dos catetos:");
+                dados.dadosenter();
+                dados.teoremaPitagoras();
                 break;
             default:
                 System.out.println("Opcao inválida");

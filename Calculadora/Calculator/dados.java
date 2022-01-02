@@ -49,14 +49,20 @@ public class dados {
          }
      }
 
-     protected void restodivisao(){
+     protected void restodivisao() {
          if (number2 == 0) {
              System.out.println("ERROR: Divisão por zero!");
          } else {
              resultado = number1 % number2;
              dadosexit();
          }
+     }
+    protected void teoremaPitagoras(){
+         resultado = Math.sqrt(number1*number1 + number2*number2);
+         dadosexit();
+    }
 
 
 
-}}
+
+}
