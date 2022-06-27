@@ -1,19 +1,14 @@
 package com.company.Calculadora.Calculator;
-
 import java.util.Scanner;
 
 public class menu {
 
     Scanner scan = new Scanner(System.in);
     WadaJu logo;
-
     {
         logo = new WadaJu();
     }
-
     protected int opcao;
-
-
     //Menu da Calculadora
     public void menuCalculadora() {
 
@@ -26,6 +21,8 @@ public class menu {
         System.out.println("Divisão .................... 4");
         System.out.println("Resto da Divisão ........... 5");
         System.out.println("Cálculo da Hipotenusa ...... 6");
+        System.out.println("Equação do Primeiro Grau ... 7");
+        System.out.println("Equação do Segundo Grau .... 8");
         System.out.print("Opção: ");
         opcao = scan.nextInt();
 
@@ -61,10 +58,19 @@ public class menu {
                 dados.dadosenter();
                 dados.teoremaPitagoras();
                 break;
+            case 7:
+                System.out.println("Entre com o valor do coefiente linear e o termo independente (a e b):");
+                dadosEquacoes.Linear();
+                dadosEquacoes.EquacaoLinear();
+                break;
+            case 8:
+                System.out.println("Entre com os valores dos catetos:");
+                dadosEquacoes.Quadratica();
+                dadosEquacoes.EquacaoQuadratica();
+                break;
             default:
                 System.out.println("Opcao inválida");
                 break;
         }
     }
-
 }
