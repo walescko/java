@@ -31,11 +31,11 @@ public class dadosEquacoes {
 
 
     public static void Quadratica() {
-        System.out.println("Coefiente Quadrático: ");
+        System.out.print("Coefiente Quadrático: ");
         a = scan.nextDouble();
-        System.out.println("Coefiente Linear: ");
+        System.out.print("Coefiente Linear: ");
         b = scan.nextDouble();
-        System.out.println("Termo independente: ");
+        System.out.print("Termo independente: ");
         c = scan.nextDouble();
     }
 
