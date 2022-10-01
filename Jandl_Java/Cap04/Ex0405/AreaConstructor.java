@@ -1,4 +1,4 @@
-package com.company.Jandl_Java.Cap03.exercicios.Ex0405;
+package com.company.Jandl_Java.Cap04.Ex0405;
 
 import java.util.Scanner;
 

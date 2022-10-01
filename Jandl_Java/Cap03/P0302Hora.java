@@ -17,19 +17,19 @@ public class P0302Hora {
 	}
 
 	public void setHoras(int h) {
-		if (h > 0 && h < 24) {
+		if (h >= 0 && h < 24) {
 			hora = h;
 		}
 	}
 
 	public void setMinutos(int m) {
-		if (m > 0 && m < 60) {
+		if (m >= 0 && m < 60) {
 			minuto = m;
 		}
 	}
 
 	public void setSegundos(int s) {
-		if (s > 0 && s < 60) {
+		if (s >= 0 && s < 60) {
 			segundo = s;
 		}
 	}
