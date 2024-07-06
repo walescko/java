@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×…§ÓûÿÿÿÿJ$9ea1e4e9-d467-49c4-a2cc-13c948a4dcb2
+Ø
+java:S1598"–This file "P0203Escopo.java" should be located in "com/company/Jandl_Java/Cap02" directory, not in "/home/walescko/Programming/java/Jandl_Java/Cap02".(×…§ÓûÿÿÿÿJ$f90e8116-2adb-4825-8800-9bc02ba3c4bd
+n
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$c248d42b-b85f-471c-9220-93a0e4002055
+n
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$004d80fa-8e2f-42ba-aebb-e2047c0978e2
+k	java:S106	"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿJ$06b0af0a-418e-4a58-a75e-12389193b6cb
+k	java:S106"+Replace this use of System.out by a logger.(Ã”…ªûÿÿÿÿJ$d88f877e-aabd-4234-80eb-72ff086d2ff6
+k	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿJ$09d81067-be37-4746-89d9-d7774e8e9f97
+k	java:S106"+Replace this use of System.out by a logger.(Ã”…ªûÿÿÿÿJ$a15ae9fa-61b3-4985-affc-2c3ffb133edc
+k	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿJ$635691ee-5289-4f8d-a16b-b1377e14bca8
+f	java:S106"+Replace this use of System.out by a logger.(‹–ž©J$791585c5-c74c-491d-955b-05f495d5f13e

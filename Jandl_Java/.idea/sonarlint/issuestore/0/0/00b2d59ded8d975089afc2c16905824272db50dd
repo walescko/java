@@ -1,0 +1,7 @@
+
+Ó
+java:S1598"‘This file "P021If.java" should be located in "com/company/Jandl_Java/Cap02" directory, not in "/home/walescko/Programming/java/Jandl_Java/Cap02".(×…§ÓûÿÿÿÿJ$cf18ea80-aac5-4ea4-9253-bd3094ea904f
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×…§ÓûÿÿÿÿJ$4d4b0f62-c3d5-41d9-bb79-2de5b493d6ba
+k	java:S106"+Replace this use of System.out by a logger.(˜¶øùÿÿÿÿJ$1f0338fe-967d-4a80-9213-0e5ce03e1dd6
+f	java:S106"+Replace this use of System.out by a logger.(™Ó÷‚J$3a374d23-93a2-4132-9893-05a6bfac6b50
+e	java:S106"+Replace this use of System.out by a logger.(°ŒÍ2J$f8471e0a-f31e-469a-8b14-4fdd9434bae9

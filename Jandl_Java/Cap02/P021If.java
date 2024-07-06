@@ -9,7 +9,7 @@ public class P021If {
         
 			int max = Integer.parseInt(args[0]);
             for (int j = 0; j < max; j++) {
-                System.out.print(j + " ");
+                System.out.println(j + " ");
             }
             
             System.out.println("\nFim da Contagem.");

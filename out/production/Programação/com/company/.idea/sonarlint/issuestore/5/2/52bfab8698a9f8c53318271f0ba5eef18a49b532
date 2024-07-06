@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×…§Óûÿÿÿÿ8¿ÇëÉˆ2J$418f32a2-4417-436e-bcad-2a0a28ebe0c5
+ã
+java:S1598"šThis file "P0201HelloWorld.java" should be located in "com/company/Jandl_Java/Cap02" directory, not in "/home/walescko/Programming/java/Jandl_Java/Cap02".(×…§Óûÿÿÿÿ8ÈÇëÉˆ2J$7b996e58-8ef8-4809-8b18-16672d231ab3
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ëÇëÉˆ2J$bdffe9d9-ce42-4a29-98ba-cbc738db1be6
+r	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ8ÀĞíÉˆ2J$ee11f720-4570-43ec-bea6-6c49b4842d44

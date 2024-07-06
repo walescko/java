@@ -5,7 +5,7 @@ public class P0232MatrizTriang {
     public static void main(String[] args){
 
         double[][] m;
-        m = new double[4][];
+        m = new double[51][];
         int aux = 0;
 
         for (int l = 0 ; l < m.length ; l++){

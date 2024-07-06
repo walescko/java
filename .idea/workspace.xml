@@ -5,86 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aec7db2-99cf-42d5-994b-251716252844" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/Cap02/P0201HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jandl_Java/Jandl_Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jandl_Java/Cap04/P0406TestaEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jandl_Java/Cap04/P0406TestaEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/Anotacoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0202Eco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0203Escopo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0204EntradaSaida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0205SaidaFormatada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0206Aritmetica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0207Relacional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0208Bitwise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0209For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0210ForAvancado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0211While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0212DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0213If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0214Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0214SwitchString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0216SwitchExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0217Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0218Continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0219TestArg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P021If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0220TryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0224TryCatchFinally2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0225TryWithResources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0226TryWithREsources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0227Assert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0228Arranjo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0229ArranjoForAvancado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0230UsoArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0231Matriz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0232MatrizTriang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0233Eco2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/P0234Anotacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap02/TestBoster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap02/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0301.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0301Hora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0302Hora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0303UsaHora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0304Ponto2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0305Dobro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0306UsaDobro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0307Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0308CriaRet1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0309Objeto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0310TesteGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0311Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0312Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0313CriaRet2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0314CriaRet3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0315Rethrow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0316Rethrow2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0317FinalRethrow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0318Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0319Progressao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0320Series.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0321SemImportStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0322ComImportStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0324Testador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0325Servico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/P0330Series.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/Cap03/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Jandl_Java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/Programação.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/WadaJu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/dados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/com/company/menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/src/NumberFormatExection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/src/P0221TryCatchSeletivo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/src/P0222TryMultiCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programação/src/P0223TryCatchFinally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jandl_Java/Cap02/P0203Escopo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jandl_Java/Cap02/P0203Escopo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jandl_Java/Cap02/P021If.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jandl_Java/Cap02/P021If.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jandl_Java/Cap02/P0232MatrizTriang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jandl_Java/Cap02/P0232MatrizTriang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/company/kotlin/DJSI-Kotlin/Cap02/HelloWorld.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/company/kotlin/SSSB-Kotlin/Cap01/META-INF/main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/company/kotlin/SSSB-Kotlin/Cap01/helloWorld.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/company/kotlin/SSSB-Kotlin/Cap01/helloWorld.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/DJSI/cap02/helloWorld.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/SSSB/cap01/helloWorld02.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="20qEyMNpI6xWiilBNTmcGqg4CzD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -109,23 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunManager" selected="Application.P0406TestaEquals">
-    <configuration name="Cap02_Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cap02_Ex1" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.P0201HelloWorld.executor": "Run",
+    "Application.com.company.Jandl_Java.Cap02.P0203Escopo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/walescko/Programming/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.P0201HelloWorld">
+    <configuration name="P0201HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Jandl_Java.Cap02.P0201HelloWorld" />
       <module name="Programação" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Jandl_Java.Cap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBoster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Jandl_Java.Cap02.TestBoster" />
+    <configuration name="com.company.Jandl_Java.Cap02.P0203Escopo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Jandl_Java.Cap02.P0203Escopo" />
       <module name="Programação" />
       <extension name="coverage">
         <pattern>
@@ -178,13 +131,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P0201HelloWorld" />
+        <item itemvalue="Application.com.company.Jandl_Java.Cap02.P0203Escopo" />
         <item itemvalue="Application.P0406TestaEquals" />
         <item itemvalue="Application.P0405UsaConversores" />
         <item itemvalue="Application.P0203Escopo" />
-        <item itemvalue="Application.TestBoster" />
-        <item itemvalue="Application.Cap02_Ex1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -195,6 +156,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636763973213</updated>
       <workItem from="1638105421523" duration="1351000" />
+      <workItem from="1720289173482" duration="474000" />
+      <workItem from="1720289666533" duration="52000" />
     </task>
     <servers />
   </component>
@@ -211,6 +174,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
